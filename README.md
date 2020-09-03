@@ -1,6 +1,6 @@
 # flutter_app_dicee_artislifeuk
 
-A new Flutter application.
+A new Flutter application, initially copied from the Dicee Project folder from London App Brewery  Flat Buton added with gesture to play rolling dice sound
 
 ## Getting Started
 
